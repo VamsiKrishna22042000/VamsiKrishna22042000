@@ -14,9 +14,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/VamsiKrishna22042000/VamsiKrishna22042000/output/github-snake.svg" />
   </picture>
 </div>
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamsikrishna22042000&theme=onestar&title=Repositories,Commits,Stars,Followers&column=4&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</div> -->
+
 <br/>
 
 <div align="left">
@@ -43,6 +41,15 @@ I am a dedicated and detail-oriented Full Stack Web Developer with a passion for
 </div>
 
 <details open>
+  <summary><b>📟 Programming Languages</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+</details>
+
+<details open>
   <summary><b>👨‍💻 Frontend Development</b></summary>
   <br/>
   <p align="left">
@@ -53,6 +60,8 @@ I am a dedicated and detail-oriented Full Stack Web Developer with a passion for
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+    <img src="https://img.shields.io/badge/babel-%23F9DC3e.svg?style=for-the-badge&logo=babel&logoColor=black" />
   </p>
 </details>
 
@@ -83,6 +92,7 @@ I am a dedicated and detail-oriented Full Stack Web Developer with a passion for
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -96,8 +106,20 @@ I am a dedicated and detail-oriented Full Stack Web Developer with a passion for
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn/ui-%23white.svg?style=for-the-badge&logo=tailwind-css&logoColor=black" />
   </p>
 </details>
+
+<details open>
+  <summary><b>🤖 AI Tools</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/ChatGPT-26C281?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grok-FF6F00?style=for-the-badge&logo=x&logoColor=white" />
+  </p>
+</details>
+
 
 <br/>
 
@@ -131,7 +153,6 @@ I am a dedicated and detail-oriented Full Stack Web Developer with a passion for
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKrishna22042000&layout=compact&hide_border=true&theme=default" width="37.5%" />
   </picture>
 </div>
-
 
 <br/>
 
