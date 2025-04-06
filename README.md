@@ -7,10 +7,16 @@
   <img src="https://komarev.com/ghpvc/?username=vamsikrishna22042000&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 <br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VamsiKrishna22042000/VamsiKrishna22042000/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VamsiKrishna22042000/VamsiKrishna22042000/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VamsiKrishna22042000/VamsiKrishna22042000/output/github-snake.svg" />
+  </picture>
+</div>
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vamsikrishna22042000&theme=onestar&title=Repositories,Commits,Stars,Followers&column=4&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </div> -->
-
 <br/>
 
 <div align="left">
