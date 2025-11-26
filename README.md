@@ -27,8 +27,8 @@
 I am a dedicated and detail-oriented Full Stack Web Developer with a passion for crafting scalable, maintainable, and intuitive web applications. My experience spans across frontend and backend development, with a strong focus on modern JavaScript frameworks and performance optimization.
 
 - 🚀 Currently building: [Groove Beats](https://groovebeats.vercel.app/) - A modern music platform  
-- 📚 Expanding knowledge in: `C++`, `Node.js` and `Data Structures & Algorithms`  
-- 💼 Expertise in: `React`, `JavaScript`, `TypeScript`, `Next.js`  
+- 📚 Expanding knowledge in: `Azure`, `Docker, CI/CD, K8s` and `Data Structures & Algorithms`  
+- 💼 Expertise in: `React`, `JavaScript`, `TypeScript`, `Next.js`,`Node .js`,`Express,js`,`Django`, `Flask` 
 - 📫 Reach me: [vamsi44567890@gmail.com](mailto:vamsi44567890@gmail.com)
 
 <br/>
